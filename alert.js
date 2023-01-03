@@ -22,3 +22,5 @@ document.write(`<br>Тип: <b>${e}</b>`)
 let result = prompt('Ваше имя')
 
 alert(result)
+
+document.write (2 ** 7)
